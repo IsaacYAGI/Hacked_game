@@ -4,7 +4,7 @@ function f1: var_a{
 
 var_b = [];
 
-while var_i < input.lenght{
+while var_i < input.length{
 	var_b.push(f1(input[var_i++]));
 }
 return var_b;
